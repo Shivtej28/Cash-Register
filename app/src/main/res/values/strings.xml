@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cash Register</string>
+    <string name="cash_register_manager">Cash Register Manager</string>
+    <string name="cash_given">Cash Given</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="enter">Enter</string>
+    <string name="enter_the_bill_amount_and_cash_given_by_the_customer_and_know_minimum_number_of_notes_to_return">Enter the bill amount and cash given by the customer and know minimum number of notes to return.</string>
+</resources>
